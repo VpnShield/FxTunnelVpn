@@ -1,10 +1,10 @@
 {
-"Title": "❌  گوشیتو پر از فیلترشکن نکن  ❌",
-"Description": "- از این کانال فیلترشکن مخصوص دانلود کن که توی قطعی هم وصل میشه حتی اینستارو سریع باز میکنه ، خودمون با اینجا وصلیم 👇🏻",
-"Link": "tg://join?invite=uVnfu2YRc1NmNzFk",
-"ColorWave": "#18FFFF",
-"Color": "#18FFFF",
-"ColorWaveTwo": "#00B0FF",
+"Title": "لطفا این فیلترشکن و از دست نده 😎",
+"Description": "قوی‌ترین و پایدارترین فیلترشکن دو ماه اخیر (Vpn Pro) آپدیت داده ؛ اگه یه چیز بدون قطعی میخوای بیا داخل کانال دانلود کن 😄❤️",
+"Link": "tg://join?invite=btNim4pSO0o0MDQ8",
+"ColorWave": "#40C4FF",
+"Color": "#40C4FF",
+"ColorWaveTwo": "#00B8D4",
 "ColorBackGround": "#ffffff",
 "TitleGravity": "center",
 "MessageGravity": "center",
@@ -14,11 +14,11 @@
 "ColorBtnBg": "#00a043",
 "ColorBtnCancell": "#ffffff",
 "ColorBtnCancellBg": "#e90000",
-"Cancellable": "false",
-"MessageID": "018484700102",
-"ShowTime": "3",
-"Button": " دانلود فیلترشکن بدون قطعی ",
-"ButtonCancell": "  ",
+"Cancellable": "true",
+"MessageID": "555882630019",
+"ShowTime": "5",
+"Button": " عضویت و دانلود ",
+"ButtonCancell": " لیاقت ندارم ",
 "Closure": "true",
 "Show": "on"
 }
